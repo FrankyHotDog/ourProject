@@ -1,0 +1,1 @@
+var hello = "Hello team, edit this file to practice using Git";
